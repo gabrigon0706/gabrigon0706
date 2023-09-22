@@ -1,16 +1,18 @@
-### Hi there 👋
+# Olá, eu sou Gabriel Gonçalves 👋
 
-<!--
-**gabrigon0706/gabrigon0706** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim
+- 👨‍💼 Atualmente sou analista de sistema senior
+- 💻 Atuo como DEVOPS, suporte aplicação e gereciamento de projetos.
+- 📚 Estou cursando Pós-Graduação em Engenharia de Software pela PUC Rio.
+- 🔒 Tenho uma sólida experiência no setor de ITSM.
 
-Here are some ideas to get you started:
+## Minhas habilidades
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌐 Trabalho principalmente com ferramentas de ITSM.
+- 🌐 Tenho experiência em desenvolvimento web com Java, Python, C++, C# ,HTML, CSS, JavaScript e Flask.
+- 📦 Gerenciamento de banco de dados SQl, Mysql e Oracle.
+- 📖 APIs e documentação Swagger.
+
+                                                                               
+## Você também me encontra em:
+<a href="[https://www.linkedin.com/in/rodrigoprocopio/](https://www.linkedin.com/in/gabriel-felipe-gon%C3%A7alves-b34a7213b)">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
